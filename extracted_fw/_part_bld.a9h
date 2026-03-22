@@ -1,0 +1,9 @@
+# Ambarella Firmware Packer section header file. Loosly based on AFT format.
+# Stores partition with Bootloader
+# Generated on 2026-03-22 10:10:50
+mem_addr=10000000
+version=256.0
+build_date=2018-06-22
+flag1=00000000
+flag2=00000000
+added_part=

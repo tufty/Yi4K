@@ -1,0 +1,5 @@
+# Ambarella Firmware Packer module header file. Loosly based on AFT format.
+# Generated on 2026-03-22 10:10:50
+model_name=YDXJ_Z16
+part_load=bst,bld,fw_up,lrtos,dsp,romfs,lnx,rfs
+part_size=00001100,0000da7c,00058820,00000000,00725068,003da100,00c58100,00581b80,01b63100,00000000,00000000,00000000,00000000,00000000,00000000,00000000
