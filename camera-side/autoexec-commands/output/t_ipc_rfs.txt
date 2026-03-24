@@ -1,0 +1,4 @@
+supported test commands
+    rfs thruput [path]
+    rfs randvrfy [path]
+    rfs list [dir]

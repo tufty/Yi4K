@@ -1,0 +1,3 @@
+t ants tp_slide direction x y
+direction is left, right, top or bottom, x y is the last point
+eg, t ants tp_slide left 50 100

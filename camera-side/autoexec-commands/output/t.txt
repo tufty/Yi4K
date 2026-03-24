@@ -1,0 +1,27 @@
+AmbaShell Test Command [Version 1.0.0000]
+(C) Copyright 2004-2014 Ambarella Corp.
+
+supported test commands:
+	help
+	drv
+	dsp
+	syslog
+	imgproc
+	img
+	cal
+	sd_shmoo
+	hiber
+	app
+	fifo
+	ants
+	wi-fi
+	pref
+	zl
+	stawpa
+	audio-enc
+	audio-dec
+	boss
+	ambalink
+	ipc
+	wifi
+	netevent

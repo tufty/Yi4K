@@ -1,0 +1,28 @@
+Usage: t app key <key>
+Key list:
+	 up 
+	 up_rel 
+	 down 
+	 down_rel 
+	 left 
+	 left_rel 
+	 right 
+	 right_rel 
+	 zoomin 
+	 zoomin_rel 
+	 zoomout 
+	 zoomout_re l
+	 set 
+	 focus 
+	 focus_rel 
+	 shutter 
+	 shutter_rel 
+	 record 
+	 mode 
+	 menu 
+	 power 
+	 del 
+	 stop_wifi 
+	 start_wifi [ssid] [name] [5G/2.4G]
+	 poweroff [time]
+	 pc [help]

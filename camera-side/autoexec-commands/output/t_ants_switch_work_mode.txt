@@ -1,0 +1,10 @@
+usage:
+	 1: precise quality
+	 2: precise quality cont.
+	 3: burst quality
+	 4: precise self quality
+	 5: record
+	 6: record_timelapse
+	 7: record_photo
+	 8: record_loop
+	 9: record_slow_motion

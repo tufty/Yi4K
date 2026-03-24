@@ -1,0 +1,2 @@
+supported test commands
+    mutex n   : lock and then unlock with irq

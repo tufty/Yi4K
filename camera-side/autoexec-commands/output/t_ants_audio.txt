@@ -1,0 +1,10 @@
+t ants audio reg_dump
+t ants audio reg_wr [Addr] [Value]
+t ants audio reg_rd [Addr]
+t ants audio priv_dump
+t ants audio priv_wr [Addr] [Value]
+t ants audio priv_rd [Addr]
+t ants audio input mode [line|mic]
+t ants audio input denoise [on|off]
+t ants audio input vol [high|low|off]
+t ants audio output vol [high|low|off|[val]]

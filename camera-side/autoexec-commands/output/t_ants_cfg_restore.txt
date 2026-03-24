@@ -1,0 +1,1 @@
+cfg_restore [all\cfg\wifi\bt]

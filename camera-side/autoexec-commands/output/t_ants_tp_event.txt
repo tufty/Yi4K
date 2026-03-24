@@ -1,0 +1,2 @@
+enable_tp = 0xfffffffd
+t ants tp_event [show|on|off|add|remove] [long|double|hor|ver|movex|movey|single|smooth|debounce]

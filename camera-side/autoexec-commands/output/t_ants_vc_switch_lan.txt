@@ -1,0 +1,1 @@
+Usage: vc_switch_lan en | zh

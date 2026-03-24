@@ -1,0 +1,14 @@
+Usage: t imgproc
+         -ver
+         -3a         [on|off]
+         -3a ver
+         -ae         [on|off]
+         -ae info    [chNo]
+         -awb        [on|off]
+         -awb info   [chNo]
+         -adj        [on|off]
+         -exif_dbg   [0|1]
+         -me         [Video|Still : 0|1] [ShtTime : us] [Gain : 1x 1000] [Dgain : Unit 4096]
+         -mwb        [Video|Still : 0|1] [GainR] [GainG] [GainB], Unit 4096
+         -slowshutter[Video|Photo : 0|1] [SlowShutterEnable] [SlowShutterFps]
+         -sharp      [Level : 0~6]

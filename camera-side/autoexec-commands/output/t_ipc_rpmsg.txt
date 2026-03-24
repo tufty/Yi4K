@@ -1,0 +1,5 @@
+supported rpmsg commands
+    rpmsg test:    send 8 echo rpmsg continuously
+    rpmsg test [str] [count] : send number of count echo [str] rpmsg continuously
+    rpmsg profile start
+    rpmsg profile stop

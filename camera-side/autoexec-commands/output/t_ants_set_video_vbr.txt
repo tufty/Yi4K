@@ -1,0 +1,1 @@
+set_video_vbr  stream_id maxbitrate avgbitrate minbitrate

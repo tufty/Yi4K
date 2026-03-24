@@ -1,0 +1,24 @@
+/***********   CURRENT BOARD CONFIG  **********/
+FormatVersion = 01
+EquipmentName = Z16
+ManufacturersCode = XiaoYi
+EquipmentProductCode = ANTS61LT5G190.01
+ProductSerialNumber = Z16V13LW735LUS3263687
+MainboardSerialNumber = RH142800000
+MHWItemNumber = 61-000342-01
+MHWItemNumberExt = A
+MHWEdition = 07
+RFboardSerialNumber = R1003DGG0001
+RFHWItemNumber = T555336.01
+RFHWItemNumberExt = A
+RFHWEdition = 05
+WifiMacAddress = 58:70:C6:31:CC:C7
+BTMacAddress = 58:70:C6:87:22:1C
+LensManufacturersCode = 
+LensModel = 
+LocationOfLastModification = --
+DateOfLastModification = --
+LocationOfLastRepair = --
+DateOfLastRepair = --
+Magic = 0x5aa55aaa
+/**********************************************/

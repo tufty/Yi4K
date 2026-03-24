@@ -1,0 +1,1 @@
+Usage: usb_con enable[1|0] connect[1|0]

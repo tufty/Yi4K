@@ -1,0 +1,4 @@
+supported test commands
+    usb_owner [0|1]
+        0: owner is RTOS
+        1: owner is Linux

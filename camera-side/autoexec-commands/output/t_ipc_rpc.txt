@@ -1,0 +1,12 @@
+supported test commands
+    rpc list:    list registered program
+    rpc svc [prog_name] +: register program
+    rpc svc [prog_name] -: unregister program
+             supported programs: test (test rpc program)
+                                 exec (execute command in Linux)
+    rpc clnt test 1 str: echo [str]
+    rpc clnt test 2 a: calulate a+a
+    rpc clnt exec1 [command] (execute command in Linux and return the result)
+    rpc clnt exec2 [command] (execute command in Linux)
+    rpc profile start
+    rpc profile stop

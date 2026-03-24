@@ -1,0 +1,28 @@
+--- large file write with bs=4096 ---
+fopen failed (22)
+--- large file write with bs=8192 ---
+fopen failed (22)
+--- large file write with bs=16384 ---
+fopen failed (22)
+--- large file write with bs=32768 ---
+fopen failed (22)
+--- large file write with bs=65536 ---
+fopen failed (22)
+--- large file write with bs=131072 ---
+fopen failed (22)
+--- large file write with bs=262144 ---
+fopen failed (22)
+--- large file write with bs=524288 ---
+fopen failed (22)
+--- large file write with bs=1048576 ---
+fopen failed (22)
+--- large file write with bs=2097152 ---
+fopen failed (22)
+--- large file write with bs=4194304 ---
+fopen failed (22)
+--- large file write with bs=8388608 ---
+fopen failed (22)
+--- large file write with bs=16777216 ---
+fopen failed (22)
+fopen failed (22)
+test_fioprf_thruput completed!

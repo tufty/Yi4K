@@ -1,0 +1,2 @@
+t ants tp_move start_x start_y stop_x stop_y
+eg, t ants tp_move 100 100 200 150

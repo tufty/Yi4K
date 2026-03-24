@@ -1,0 +1,1 @@
+show_str [0] (null)!

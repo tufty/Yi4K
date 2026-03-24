@@ -1,0 +1,1 @@
+the valid brightness range is: [1-99]

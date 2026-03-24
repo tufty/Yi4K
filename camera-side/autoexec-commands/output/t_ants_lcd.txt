@@ -1,0 +1,4 @@
+lcd [index] [color] [val]
+[index] 0:bright, 1:contrast
+[color] 0:all 1:red 2:green 3:blue
+[val] 64:normal

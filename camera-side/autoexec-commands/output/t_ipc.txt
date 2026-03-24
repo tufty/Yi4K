@@ -1,0 +1,7 @@
+Supported test commands:
+    slock
+    mutex
+    rpmsg
+    rpc
+    rfs
+    usb_owner

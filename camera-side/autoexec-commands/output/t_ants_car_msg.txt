@@ -1,0 +1,1 @@
+car_msg [header] hd1 hd2 hd3 hd4 [data] datastr

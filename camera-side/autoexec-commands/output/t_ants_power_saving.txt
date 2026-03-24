@@ -1,0 +1,2 @@
+t ants power_saving on 30/60/120
+t ants power_saving off

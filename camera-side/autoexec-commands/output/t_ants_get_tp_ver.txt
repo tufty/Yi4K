@@ -1,0 +1,2 @@
+tp fw version is: 255.255.231.251
+tp cfg version is: 2.2.2.4

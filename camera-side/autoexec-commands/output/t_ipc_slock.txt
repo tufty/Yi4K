@@ -1,0 +1,4 @@
+supported test commands
+    slock n + : lock n
+    slock n - : unlock n
+    slock n   : lock and then unlock with irq

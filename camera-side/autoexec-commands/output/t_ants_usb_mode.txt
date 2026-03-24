@@ -1,0 +1,1 @@
+usb_mode [msc/amage/uart/uvc]

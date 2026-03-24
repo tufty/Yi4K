@@ -1,0 +1,1 @@
+thumb [show|swich|del] [pos|2x2|3x3]
