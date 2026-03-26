@@ -1,0 +1,7 @@
+Usage: gpio [show|<pin_id>] [option]
+       gpio show [all|<pin>] - show the GPIO pin status
+       gpio <pin> in - set input mode
+       gpio <pin> out [0|1] - output mode with logic low/high
+       gpio <pin> alt <func> - alternate pin function
+       gpio <pin> pull [up|down|none] - internal resistor control
+       gpio <pin> drive [3mA|6mA|12mA|18mA] - set drive strength

@@ -1,1 +1,1 @@
-Country: help is not supported!
+example: t ants wifi_country CN

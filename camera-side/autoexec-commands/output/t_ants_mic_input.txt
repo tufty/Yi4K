@@ -1,0 +1,3 @@
+example: t ants mic_input dual
+                          left
+                          right

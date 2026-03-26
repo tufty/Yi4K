@@ -1,0 +1,19 @@
+Usage:
+Test SPI transfer:
+  spi [msb|lsb] data0 data1 ...
+
+Config SPI:
+  spi config {-[mid|sid|mode|pol|dfs|baud|delay] value}
+     -mid  : Master ID
+     -sid  : Slave ID
+     -mode : SPI protocol mode
+           0: 1st edge is rising, sampling on rising   (CPOL = 0, CPHA = 0)
+           1: 1st edge is rising, sampling on falling  (CPOL = 0, CPHA = 1)
+           2: 1st edge is falling, sampling on falling (CPOL = 1, CPHA = 0)
+           3: 1st edge is falling, sampling on rising  (CPOL = 1, CPHA = 1)
+     -pol  : Slave select polarity
+           0: active in low
+           1: active in high
+     -dfs  : Data frame size in Bit
+     -baud : Transfer baud-rate in Hz
+     -delay: The delay time to begin data transfer after enabling an slave

@@ -1,0 +1,17 @@
+Usage: hdmi [mode|phy|csc|info] <...>
+       hdmi mode <VIDEO_ID_CODE> ([rgb|422|444]):  Change video resolution and color space
+         VIDEO_ID_CODE: Please reference CEA-861-F
+         rgb: RGB,   422: YCbCr 4:2:2,   444: YCbCr 4:4:4
+       hdmi csc <CSC_MATRIX_TYPE> <CSC_MATRIX_ID:[0-8]>:  Use different hdmi csc martix (number:0-8)
+         CSC_MATRIX_TYPE
+         0: BT601, RGB<->YCbCr conversion
+         1: BT709, RGB<->YCbCr conversion
+         2: IQ tuning
+       hdmi phy <SINK_CURRENT:[0-63]> <SINK_PREEMPHASIS:[0-15]>:  Electrical tuning
+         SINK_CURRENT      SINK_PREEMPHASIS
+         0:  6 mA          0: No pre-emphasis
+         16: 10.725 mA     4: 13.3% pre-emphasis
+         32: 13.725 mA     8: 26.7% pre-emphasis
+         48: 16.725 mA     12: 40.0% pre-emphasis
+         63: 21.2255 mA    15: 50.0% pre-emphasis
+       hdmi info: Show current setting

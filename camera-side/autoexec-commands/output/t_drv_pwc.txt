@@ -1,0 +1,3 @@
+Usage: pwc get status - get PWC Status
+       pwc set status <value> - set PWC Status
+       pwc delaytest [count] - Show PWC toggle delay time

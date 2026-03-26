@@ -6,7 +6,7 @@ Guest context    :
 	r4:  0x4054a000 r5:  0x40557d40 r6:  0x405530c8 r7:  0x40587384
 	r8:  0x4054a030 r9:  0x4057c587 r10: 0x4057c587 r11: 0x4054a000
 	r12: 0xe001c000
-	usr_sp:  0x3eea3b50 usr_lr:  0x00000000
+	usr_sp:  0x3ecd3b50 usr_lr:  0x00000000
 	svr_sp:  0x4054bfa8 svr_lr:  0x4000fc74 svr_spsr: 0x800e0030
 	abt_sp:  0x4058710c abt_lr:  0x4000f120 abt_spsr: 0x800d0193
 	irq_sp:  0xa1962388 irq_lr:  0x4000fd80 irq_spsr: 0x200e0013
@@ -14,4 +14,4 @@ Guest context    :
 	fiq_sp:  0xa1961d88 fiq_lr:  0x4006075c fiq_spsr: 0x80000113
 	fiq_r8:  0x00000000 fiq_r9:  0x00000000 fiq_r10:  0x00000000
 	fiq_r11: 0x00000000 fiq_r12: 0x00000000
-	cp15_ctr: 0x10c53c7d   cp15_ttb: 0x3ee20059   cp15_dac: 0x00000015
+	cp15_ctr: 0x10c53c7d   cp15_ttb: 0x3ef80059   cp15_dac: 0x00000015

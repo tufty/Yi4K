@@ -1,0 +1,21 @@
+Power-On Configuration:
+POC[31:0]  = 0x00000538
+POC[0]     = b'0   : NAND I/O voltage 3.3V
+POC[3:1]   = b'100 : IDSP 384 MHz, VDSP 336 MHz, DRAM 504 MHz, Cortex 1008 MHz
+POC[4]     = b'1   : NAND flash is 2048 bytes per page
+POC[5]     = b'1   : NAND read with read confirm
+POC[6]     = b'0   : Do not bypass boot ROM
+POC[7]     = b'0   : NAND boot with normal speed parameters
+POC[8,12]  = b'10  : ROM code for NAND boot
+POC[10]    = b'1   : NAND read with BCH ECC correction
+POC[11]    = b'0   : NAND flash main area to spare area ratio is (32:1)
+POC[13]    = b'0   : ROM code for USB/NAND/SPI-NOR
+POC[14]    = b'0   : USB PHY uses 24MHz reference clock as input
+POC[16]    = b'0   : eMMC boot with normal speed (25MHz)
+POC[17]    = b'0   : NAND boot with 2KB boot code
+POC[18]    = b'0   : eMMC boot with 1-bit bus width
+POC[19]    = b'0   : eMMC boot with 1/4-bit bus width
+POC[21]    = b'0   : USB acts as a device
+POC[23]    = b'0   : Ethernet functions are disabled
+POC[30:29] = b'00  : Normal Sources
+POC[31]    = b'0   : This config is from external pins

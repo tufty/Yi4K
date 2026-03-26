@@ -1,0 +1,15 @@
+Usage: pll stat                           : show main clock frequencies
+       pll dump [all|<pll_name>]          : show detailed information of the specified pll
+       pll set <clock_name> <frequency>   : set clock frequency of the specifed clock source
+       <pll_name>    <clock_name>
+       audio,        gclk_au,
+       core,         gclk_core,
+       ddrio,        gclk_idsp,
+       idsp,         gclk_so,
+       sensor,       gclk_vo_lcd,
+       vout_lcd,     gclk_vo_tv,
+       vout_tv,      pll_out_sd
+       sd,
+       hdmi,
+       hdmi_lc,
+       cortex

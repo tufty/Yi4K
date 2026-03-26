@@ -1,0 +1,1 @@
+Usage: i2c <chan> [addr <write_slave_addr> data0 data1 ..] [addr <read_slave_addr> count]

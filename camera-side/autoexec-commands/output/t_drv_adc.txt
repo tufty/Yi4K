@@ -1,0 +1,5 @@
+Usage: adc [start|stop|get|unittest] <...>
+       adc unittest      : Sanity testing
+       adc start         : Start adc conversion
+       adc stop          : Stop adc conversion
+       adc get <channel> : Get converted data

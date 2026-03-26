@@ -1,0 +1,7 @@
+valid test targets for SD are:
+	rs
+	ws
+	parse
+	erase
+	info
+	reinit
